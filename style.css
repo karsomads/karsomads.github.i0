@@ -1,0 +1,36 @@
+//This is my CSS file
+
+p {
+   color: blue;
+    font-size: 16px;
+}
+th {
+    background-color: lightgray;
+    color: blue;
+}
+img.Opener {
+    border-radius: 50%;
+    border: 5px solid rgb(12, 0, 180);
+    margin-left: 0%;
+}
+
+em {
+    color: red;
+}
+h2 {
+    font-size: 22px;
+}
+section {
+    background-color: #ffebeb;
+}
+
+table {
+    border: red solid 2px;
+}
+
+form {
+    background-color: #ebefff;
+    padding: 10px;
+    border: 2px solid rgb(0, 251, 255);
+    width: 300px;
+}
